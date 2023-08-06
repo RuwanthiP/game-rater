@@ -1,1 +1,1 @@
-# game-rater
+# game-rater-frontend
